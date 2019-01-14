@@ -70,5 +70,5 @@ docker load -i *.tar
 
 
 参考：
-[1][清华大学开源镜像站](https://mirrors.tuna.tsinghua.edu.cn/help/docker-ce/)
+[1][清华大学开源镜像站](https://mirrors.tuna.tsinghua.edu.cn/help/docker-ce/)   
 [2][docker install](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
