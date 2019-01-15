@@ -13,8 +13,8 @@
 ### 2.准备安装磁盘
 * 准备磁盘刻录工具,建议使用``rufus``  
 
-![avatar](pictures/刻录工具png.png)
-<center> 图3 刻录工具</center>
+ ![avatar](pictures/刻录工具png.png)
+ <center> 图3 刻录工具</center>
 
 如果是UEFI启动，在分区类型GPT，如果是其他则选择其他，注意准备安装的启动盘会被格式化，请注意数据备份。单击``开始``就可以将系统镜像刻录到U盘了。
 
