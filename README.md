@@ -10,3 +10,4 @@ Apollo的一些日积月累
 7.[安装jupyter notebook及常见用法]()   
 8.[Python 日积月累](accumulation_of_Python.md)  
 9.[安装Ubuntu 16.04](how_to_install_ubuntu_in_your_computer_cn.md)
+10.[如何安装ROS KINETIC](How_to_install_ROS_kinetic.md)
