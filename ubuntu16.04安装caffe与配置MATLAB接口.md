@@ -84,8 +84,8 @@
          7 Passed, 0 Failed, 0 Incomplete.
          0.75222 秒测试时间。
       ```
-  8.  解决类析构之类的报错
-      [参考链接](https://github.com/BVLC/caffe/pull/5642/commits/cea9181d6794cc338857483d1692ed387a0f75a9)
+  8.  解决类析构之类的报错  
+      [参考链接](https://github.com/BVLC/caffe/pull/5642/commits/cea9181d6794cc338857483d1692ed387a0f75a9)  
       ``Net.m``  
 
       ```
